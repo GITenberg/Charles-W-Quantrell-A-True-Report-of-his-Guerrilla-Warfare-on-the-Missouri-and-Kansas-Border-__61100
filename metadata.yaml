@@ -1,0 +1,26 @@
+_repo: Charles-W-Quantrell-A-True-Report-of-his-Guerrilla-Warfare-on-the-Missouri-and-Kansas-Border-__61100
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trow, Harrison
+    birthdate: 1843
+    deathdate: 1925
+    gutenberg_agent_id: '51253'
+    url: http://www.gutenberg.org/2009/agents/51253
+description: ''
+gutenberg_issued: '2020-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quantrill, William Clarke, 1837-1865'
+- !lcsh 'Missouri -- History -- Civil War, 1861-1865'
+- !lcsh 'Kansas -- History -- Civil War, 1861-1865'
+- GITenberg
+title: "Charles W. Quantrell\r\nA True Report of his Guerrilla Warfare on the Missouri\
+  \ and Kansas Border During the Civil War of 1861 to 1865"
+url: http://www.gutenberg.org/ebooks/61100
